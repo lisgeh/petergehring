@@ -29,6 +29,10 @@ layout: default
           <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> {{site.website}}</a></li>
         {% endif %}
 
+        {% if site.address %}
+        <li class="address"><i class="fa fa-linkedin"></i> {{site.address}}</li>
+      {% endif %}
+
         {% if site.linkedin %}
           <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> linkedin.com/in/{{site.linkedin}}</a></li>
         {% endif %}
@@ -37,8 +41,8 @@ layout: default
 
         {% if site.twitter %}
           <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i> {{site.twitter}}</a></li>
-        {% else %}
-          <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @artemsheludko_</a></li>
+        
+  
         {% endif %}
 
       </ul>

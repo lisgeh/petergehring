@@ -16,6 +16,9 @@ pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide th
 email: p_gehring@web.de # Add your Email address
 phone: 06188 7623 # Add your Phone number
 website: energieberatung-gehring.de # Add your website, do not add http://
+address: |
+  Karolingerring 25 
+  63791 Karlstein a. M. 
 linkedin: # Add your Linkedin handle
 #github: artemsheludko # Add your Github handle
 #twitter: '@artemsheludko_' # Add your Twitter handle
