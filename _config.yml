@@ -7,7 +7,7 @@ permalink: ':title/'
 blog_theme: light # Or use dark
 
 # Profile information
-name: Gehring Peter
+name: Peter Gehring
 tagline: Energieberater
 about-description: Energieberater für Wohngebäude, KfW Haus, Einzelmaßnahme nach BEG, iSFP (individueller Sanierungsfahrplan)
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
