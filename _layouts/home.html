@@ -30,7 +30,7 @@ layout: default
         {% endif %}
 
         {% if site.address %}
-        <li class="address"><i class="fa fa-linkedin"></i> {{site.address}}</li>
+        <li class="address"><a><i class="fa fa-house"></i> {{site.address |newline_to_br}}</a></li>
       {% endif %}
 
         {% if site.linkedin %}
