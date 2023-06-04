@@ -9,12 +9,32 @@ blog_theme: light # Or use dark
 # Profile information
 name: Peter Gehring
 tagline: Energieberater
-about-description: Energieberater für Wohngebäude, KfW Haus, Einzelmaßnahme nach BEG, iSFP (individueller Sanierungsfahrplan)
+about-description: 
+Kurzbiographie
+
+Dipl. Ing. (univ) Maschinenbau, Fachrichtung Energie- und Kraftwerkstechnik
+2006 Energieberater (HWK) in Würzburg
+Nach 35 Jahren in der Industrie (Kraftwerkstechnik, Anlagenbau),bin ich seit 2022 als  Energieberater tätig.
+
+
+Meine Leistungen
+
+- Vor-Ort-Beratung
+- ISFP Individueller Sanierungsfahrplan
+- Fördermittelberatung
+- Energieausweis
+- GEG Nachweis
+
+Eingetragen in der Energie Effizienz-Experten-Liste der Dena (Deutsche Energie-Agentur)
+und zugelassen für die Förderprogramme des Bundes
+- KfW
+- BAFA
+
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: p_gehring@web.de # Add your Email address
-phone: 06188 7623 # Add your Phone number
+phone: 0178 317 83 25 # Add your Phone number
 website: energieberatung-gehring.de # Add your website, do not add http://
 address: |
   Karolingerring 25 
